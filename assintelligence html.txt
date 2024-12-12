@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,7 +18,8 @@
             background: rgba(0, 0, 0, 0.7);
         }
         header img {
-            max-width: 120px;
+            max-width: 300px;
+            border-radius: 10px;
         }
         header h1 {
             margin: 10px 0;
@@ -69,11 +69,17 @@
             border-radius: 10px;
             width: 250px;
         }
+        .memes img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
     </style>
 </head>
 <body>
     <header>
-        <img src="your-logo-link-here" alt="Assintelligence Logo">
+        <img src="/mnt/data/asasasa.webp" alt="Assintelligence Logo">
         <h1>Assintelligence Token ($AI)</h1>
         <p>The Smartest Dumb Memecoin on Solana!</p>
     </header>
@@ -109,6 +115,13 @@
                 <p>Viral Memes & Partnerships</p>
             </div>
         </div>
+    </section>
+
+    <section class="memes">
+        <h2>AI Memes</h2>
+        <img src="https://via.placeholder.com/300x200.png?text=AI+Meme+1" alt="AI Meme 1">
+        <img src="https://via.placeholder.com/300x200.png?text=AI+Meme+2" alt="AI Meme 2">
+        <img src="https://via.placeholder.com/300x200.png?text=AI+Meme+3" alt="AI Meme 3">
     </section>
 
     <section class="cta">
