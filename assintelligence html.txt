@@ -79,7 +79,7 @@
 </head>
 <body>
     <header>
-        <img src="/mnt/data/asasasa.webp" alt="Assintelligence Logo">
+        <img src="https://imgur.com/a/ozKyQUf" alt="Assintelligence Logo">
         <h1>Assintelligence Token ($AI)</h1>
         <p>The Smartest Dumb Memecoin on Solana!</p>
     </header>
